@@ -11,7 +11,7 @@ st.write("Fill in your details and generate a well-formatted, professional resum
 # Input fields for the resume
 name = st.text_input("Full Name", "Vibhas Garg")
 email = st.text_input("Email", "vibhasgarg70@gmail.com")
-phone = st.text_input("Phone Number", "+91 7876774542")
+phone = st.text_input("Phone Number", "+91 787677XXXX")
 linkedin = st.text_input("LinkedIn Profile URL", "www.linkedin.com/in/vibhas-garg-193340246")
 
 st.subheader("Career Objective")
